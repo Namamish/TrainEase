@@ -1,5 +1,5 @@
 # Cpp-Project
-This was the first project made by me during my 12th Practicals, and I have blended my whole syllabus in one code. I have used mainly File Handling and Object Oriented Programming Concepts in this Project.
+I have made a Train Reservation Management Project using C++. This was the first project made by me during my 12th Practicals, and I have blended my whole syllabus in one code. I have used mainly File Handling and Object Oriented Programming Concepts in this Project.
 
 
 Key Features:
